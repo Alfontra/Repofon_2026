@@ -1,2 +1,3 @@
 Ini adalah file kedua.
 File ini dibuat untuk tugas praktik Git.
+file2 sudah di edit melalui github
