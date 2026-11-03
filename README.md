@@ -1,2 +1,3 @@
 # Repofon_2026
-hallo aku edit readme
+Nama: Thomas Wilbert Alfontra 
+NPM: 6182401055
