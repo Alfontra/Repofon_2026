@@ -1,3 +1,4 @@
 Ini adalah file pertama.
 Saya sedang belajar Git dan GitHub.
-file sudah di edit melalui github
+file sudah di edit melalui GitHub
+mencoba fitur branch
